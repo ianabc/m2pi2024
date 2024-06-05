@@ -1,6 +1,6 @@
-# m2pi2023 Python Course Notes
+# M2PI 2024 Python Course Notes
 
-The notebooks in this directory were used to support the 2023 edition of the PIMS Math^Industry workshop. The LectureNotes directory has some material covering 
+The notebooks in this directory were used to support the 2024 edition of the PIMS Math^Industry workshop. The LectureNotes directory has some material covering 
 
   * [numpy](./LectureNotes/numpy.ipynb)
   * [pandas](./LectureNotes/Pandas.ipynb)
